@@ -14,7 +14,6 @@ const Dictaphone = () => {
 	const [lang, setLang] = useState("en-US");
 
 	const {
-		finalTranscript,
 		transcript,
 		listening,
 		resetTranscript,

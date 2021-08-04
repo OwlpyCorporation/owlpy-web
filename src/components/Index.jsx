@@ -1,9 +1,11 @@
 import React from "react";
 import Carusel from "./Carusel";
+import Dictaphone from "./Dictaphone";
 export default function index() {
 	return (
 		<div className="container-fluid pt-5 mt-5">
 			<Carusel></Carusel>
+			<Dictaphone></Dictaphone>
 			<div className="row justify-content-center">
 				<div className="col-lg-10 col-sm-auto bg-white pt-4 pb-5 mb-5 shadow-sm">
 					<article className="pt-3">

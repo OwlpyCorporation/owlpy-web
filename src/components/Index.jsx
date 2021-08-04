@@ -5,7 +5,6 @@ export default function index() {
 	return (
 		<div className="container-fluid pt-5 mt-5">
 			<Carusel></Carusel>
-			<Dictaphone></Dictaphone>
 			<div className="row justify-content-center">
 				<div className="col-lg-10 col-sm-auto bg-white pt-4 pb-5 mb-5 shadow-sm">
 					<article className="pt-3">
@@ -14,15 +13,18 @@ export default function index() {
 							Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla
 							officia veniam sunt iusto quos dolor iure aut, officiis iste
 							laboriosam blanditiis placeat saepe numquam, mollitia architecto
-							enim, sapiente soluta error. Lorem ipsum dolor sit amet
-							consectetur adipisicing elit. Magnam ipsum tempore ullam fuga
-							dolorum repudiandae? Molestias tenetur commodi hic praesentium
-							nihil temporibus dolores a, vitae, explicabo aut voluptates
-							reiciendis delectus. Nihil sequi numquam cum. Dolorem sit eligendi
-							ipsum tenetur veniam dicta officiis recusandae? Ipsa incidunt
-							ducimus ab? Perspiciatis ipsam repellendus similique culpa
-							suscipit cupiditate praesentium? Explicabo aspernatur cumque unde
-							rem! Commodi aspernatur modi, deserunt illum quibusdam nulla
+							enim, sapiente soluta error. Lorem ipsum dolor sit amet Lorem
+							ipsum dolor sit amet consectetur, adipisicing elit. Cumque natus
+							ipsam obcaecati labore illo sapiente et harum. Suscipit numquam,
+							deleniti quos enim soluta consequatur, consectetur fugiat incidunt
+							facilis aspernatur cum. consectetur adipisicing elit. Magnam ipsum
+							tempore ullam fuga dolorum repudiandae? Molestias tenetur commodi
+							hic praesentium nihil temporibus dolores a, vitae, explicabo aut
+							voluptates reiciendis delectus. Nihil sequi numquam cum. Dolorem
+							sit eligendi ipsum tenetur veniam dicta officiis recusandae? Ipsa
+							incidunt ducimus ab? Perspiciatis ipsam repellendus similique
+							culpa suscipit cupiditate praesentium? Explicabo aspernatur cumque
+							unde rem! Commodi aspernatur modi, deserunt illum quibusdam nulla
 							consequuntur repudiandae doloribus quidem corrupti impedit
 							temporibus voluptatibus accusamus exercitationem amet placeat sed
 							sapiente nam voluptatem dolores iure in est voluptatum! Sapiente,
@@ -95,6 +97,7 @@ export default function index() {
 						vitae dolorum quam cupiditate eveniet dicta.
 					</p>
 				</div>
+				<Dictaphone></Dictaphone>
 			</div>
 		</div>
 	);

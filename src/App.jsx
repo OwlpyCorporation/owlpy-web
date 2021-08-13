@@ -5,19 +5,19 @@ import Index from "./components/Index";
 import Contact from "./components/Contact";
 
 export default function App() {
-	return (
-		<div className="container-fluid">
-			<Router>
-				<Menu />
-				<Switch>
-					<Route exact path="/">
-						<Index />
-					</Route>
-					<Route exact path="/contact-us">
-						<Contact />
-					</Route>
-				</Switch>
-			</Router>
-		</div>
-	);
+  return (
+    <div className="container-fluid">
+      <Router>
+        <Menu />
+        <Switch>
+          <Route exact path="/">
+            <Index />
+          </Route>
+          <Route exact path="/contact-us">
+            <Contact />
+          </Route>
+        </Switch>
+      </Router>
+    </div>
+  );
 }

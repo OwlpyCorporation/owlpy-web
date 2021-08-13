@@ -49,12 +49,10 @@ const Dictaphone = () => {
                   setLang(event.target.value);
                 }}
                 style={{ float: "right" }}
-                class="border-0 text-center border-bottom-2"
+                className="border-0 text-center border-bottom-2"
                 aria-label=".form-select-sm example"
               >
-                <option selected value="en-US">
-                  English
-                </option>
+                <option value="en-US">English</option>
                 <option value="es-MX">Spanish</option>
               </select>
             </div>

@@ -81,7 +81,7 @@ function Menu() {
                 <Link
                   to="/contact-us"
                   className="nav-link"
-                  tabindex="-1"
+                  tabIndex="-1"
                   aria-disabled="true"
                 >
                   Contact Us

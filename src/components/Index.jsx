@@ -10,49 +10,31 @@ export default function index() {
 					<article className="pt-3">
 						<h4 id="list-item-1">IA</h4>
 						<p>
-							Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla
-							officia veniam sunt iusto quos dolor iure aut, officiis iste
-							laboriosam blanditiis placeat saepe numquam, mollitia architecto
-							enim, sapiente soluta error. Lorem ipsum dolor sit amet Lorem
-							ipsum dolor sit amet consectetur, adipisicing elit. Cumque natus
-							ipsam obcaecati labore illo sapiente et harum. Suscipit numquam,
-							deleniti quos enim soluta consequatur, consectetur fugiat incidunt
-							facilis aspernatur cum. consectetur adipisicing elit. Magnam ipsum
-							tempore ullam fuga dolorum repudiandae? Molestias tenetur commodi
-							hic praesentium nihil temporibus dolores a, vitae, explicabo aut
-							voluptates reiciendis delectus. Nihil sequi numquam cum. Dolorem
-							sit eligendi ipsum tenetur veniam dicta officiis recusandae? Ipsa
-							incidunt ducimus ab? Perspiciatis ipsam repellendus similique
-							culpa suscipit cupiditate praesentium? Explicabo aspernatur cumque
-							unde rem! Commodi aspernatur modi, deserunt illum quibusdam nulla
-							consequuntur repudiandae doloribus quidem corrupti impedit
-							temporibus voluptatibus accusamus exercitationem amet placeat sed
-							sapiente nam voluptatem dolores iure in est voluptatum! Sapiente,
-							expedita? Saepe iure maxime earum nesciunt laboriosam tempora amet
-							repellat vero impedit reiciendis! Sed perspiciatis quibusdam
-							beatae dignissimos, rerum aliquid natus ullam amet, molestias
-							perferendis veritatis nesciunt sapiente accusamus porro assumenda!
+							The artificial intelligense , or ai, is really not all that
+							different than your average website used for internet browsing.
+							The computer has been around for decades, but it was only in
+							recent years that we were able to use the computer to its full
+							potential effectively. The computer has a hard time finding
+							specific information and it isn't the smartest thing in the world.
+							That is why computers are constantly learning from mistakes made
+							by humans all over the internet. A supercomputer is created when
+							there are many of them working together and each one learns from
+							their mistakes as well. uses different algorithms to generate a
+							page of information and then presents it to you in human-readable
+							format. Different content can be generated with the same algorithm
+							by simply providing it with differing input data. Ai is also known
+							for its ability to produce something pleasing to the eye in most
+							cases, as well as being able to quickly analyze issues from many
+							perspectives while still making sense.
 						</p>
 					</article>
 					<h4 id="list-item-2">Data analytics</h4>
 					<p>
-						Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat
-						dignissimos quod alias eveniet dolores numquam necessitatibus dicta
-						earum ea, facilis tempore ratione? Quos labore quo suscipit, ipsam
-						optio magnam odio? Ratione alias, ipsa obcaecati nemo, aut sequi
-						exercitationem dicta sit, eius pariatur quisquam veritatis quia
-						provident aperiam? Corrupti, debitis? Eum, suscipit hic. Eveniet
-						facere amet cumque, quidem quisquam libero iure. Nemo nihil libero
-						vero fuga tenetur, mollitia voluptas. Ab, beatae iusto culpa quidem
-						odit quam sint odio voluptatem accusamus saepe? Sint aspernatur
-						asperiores iusto ab voluptatum blanditiis earum optio tempora.
-						Adipisci totam deserunt eveniet, fuga dolorem, voluptatum omnis
-						cupiditate atque quibusdam eaque veniam in nemo facere animi ipsum
-						repellendus dicta. Dolorem voluptate qui laboriosam magni animi eius
-						nobis ut odit. At beatae eius saepe eligendi tenetur, laudantium
-						aliquid autem consequuntur praesentium nesciunt repudiandae dolor a
-						minima consequatur non voluptates blanditiis ratione nisi odio.
-						Provident iusto voluptate error sint ullam alias.
+						We are living in an era where we’ve reached a point of unprecedented
+						data. Data is everywhere and is the new oil. With the exponential
+						growth of data, it has become necessary to extract value from this
+						data to make better, faster, wiser decisions and to build a smarter
+						society in order to create more meaningful and lasting impact.
 					</p>
 					<h4 id="list-item-3">Machine learning</h4>
 					<p>
